@@ -1,7 +1,7 @@
 ## 🧮 Basic Calculator Program
 
 This is a simple Python program that performs basic arithmetic operations: **addition**, **subtraction**, **multiplication**, and **division**.
-
+![Image](https://github.com/user-attachments/assets/6aafb2be-1f96-4a50-a7ac-1f2a37c9c4a3)
 ### 🚀 How It Works
 
 1. The program prompts the user to:
